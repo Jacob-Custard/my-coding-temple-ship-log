@@ -1,0 +1,1 @@
+Idk much about navigating with a compass other than to go in direction the indicated and to stay away from magnetic fields.
