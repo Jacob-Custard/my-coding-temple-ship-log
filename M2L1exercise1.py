@@ -9,7 +9,7 @@ print(a)
 
 #these are variables for question 2
 a = 5
-c = 8
+b = 8
 
 #this is the function for question 2
-print(a + c)
+print(a + b)
